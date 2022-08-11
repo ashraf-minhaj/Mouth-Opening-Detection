@@ -7,5 +7,6 @@
 2. Run the following command on your `cmd` / `terminal` `PowerShell`
 
 `pip install -r requirements.txt`
+
 3. Now run the `main.py` from your favourite IDE or from terminal `python main.py` 
 4. Have fun!
